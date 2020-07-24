@@ -1,0 +1,92 @@
+Please enter the quantity of coffees you would like to order.
+2
+You ordered 2 coffees
+Please enter the quantity of bagels you would like to order.
+2
+You ordered 2 bagels
+Please enter the quantity of danishes you would like to order.
+2
+You ordered 2 danishes
+My Coffee Shop
+Item       Quantity     Price
+Coffee        2         $3.75
+Bagel         2         $3.00
+Danish        2         $2.25
+Sub total $18.00
+Tax $1.62
+Total $19.62
+Program ended with exit code: 0
+
+Please enter the quantity of coffees you would like to order.
+0
+You ordered 0 coffees
+Please enter the quantity of bagels you would like to order.
+0
+You ordered 0 bagels
+Please enter the quantity of danishes you would like to order.
+0
+You ordered 0 danishes
+My Coffee Shop
+Item       Quantity     Price
+Sub total $0.00
+Tax $0.00
+Total $0.00
+Program ended with exit code: 0
+
+Please enter the quantity of coffees you would like to order.
+-3
+Please enter the quantity of coffees you would like to order.
+10
+You ordered 10 coffees
+Please enter the quantity of bagels you would like to order.
+2
+You ordered 2 bagels
+Please enter the quantity of danishes you would like to order.
+0
+You ordered 0 danishes
+My Coffee Shop
+Item       Quantity     Price
+Coffee       10         $3.75
+Bagel         2         $3.00
+Sub total $43.50
+Tax $3.92
+Total $47.42
+Program ended with exit code: 0
+
+Please enter the quantity of coffees you would like to order.
+1500
+You ordered 1500 coffees
+Please enter the quantity of bagels you would like to order.
+2775
+You ordered 2775 bagels
+Please enter the quantity of danishes you would like to order.
+9000
+You ordered 9000 danishes
+My Coffee Shop
+Item       Quantity     Price
+Coffee     1500         $3.75
+Bagel      2775         $3.00
+Danish     9000         $2.25
+Sub total $34200.00
+Tax $3078.00
+Total $37278.00
+Program ended with exit code: 0
+
+Please enter the quantity of coffees you would like to order.
+0
+You ordered 0 coffees
+Please enter the quantity of bagels you would like to order.
+0
+You ordered 0 bagels
+Please enter the quantity of danishes you would like to order.
+1
+You ordered 1 danishes
+My Coffee Shop
+Item       Quantity     Price
+Danish        1         $2.25
+Sub total $2.25
+Tax $0.20
+Total $2.45
+Program ended with exit code: 0
+
+

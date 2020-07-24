@@ -1,0 +1,75 @@
+// Lisa Lehrman
+// CS14E 7/8/2020
+// Assignment 6
+
+Please enter a number of rows between 3-23:  5
+  *  
+ *** 
+*****
+ *** 
+  *  
+Program ended with exit code: 0
+
+Please enter a number of rows between 3-23:  500
+Your input was invalid. Please try again. 
+Please enter a number of rows between 3-23:  
+
+Please enter a number of rows between 3-23:  23
+           *           
+          ***          
+         *****         
+        *******        
+       *********       
+      ***********      
+     *************     
+    ***************    
+   *****************   
+  *******************  
+ ********************* 
+***********************
+ ********************* 
+  *******************  
+   *****************   
+    ***************    
+     *************     
+      ***********      
+       *********       
+        *******        
+         *****         
+          ***          
+           *           
+Program ended with exit code: 0
+
+Please enter a number of rows between 3-23:  -4
+Your input was invalid. Please try again. 
+Please enter a number of rows between 3-23:  
+
+Please enter a number of rows between 3-23:  15
+       *       
+      ***      
+     *****     
+    *******    
+   *********   
+  ***********  
+ ************* 
+***************
+ ************* 
+  ***********  
+   *********   
+    *******    
+     *****     
+      ***      
+       *       
+Program ended with exit code: 0
+
+Please enter a number of rows between 3-23:  8
+    *    
+   ***   
+  *****  
+ ******* 
+*********
+ ******* 
+  *****  
+   ***   
+    *    
+Program ended with exit code: 0

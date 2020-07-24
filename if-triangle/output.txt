@@ -1,0 +1,60 @@
+Please enter side a: 
+3
+Please enter side b: 
+4
+Please enter side c: 
+5
+The sides you entered form a right triangle.
+Program ended with exit code: 0
+
+5*5 == 4*4 + 3*3
+ 52 (25) = 32 (9) + 42 (16) (true)
+
+////////////////////////////////////////////////////////////
+
+Please enter side a: 
+5
+Please enter side b: 
+4
+Please enter side c: 
+3
+The sides you entered form a right triangle.
+Program ended with exit code: 0
+
+////////////////////////////////////////////////////////////
+
+Please enter side a: 
+2
+Please enter side b: 
+2
+Please enter side c: 
+2
+It is not a right triangle.
+Program ended with exit code: 0
+
+2*2 == 2*2 + 2*2 
+4 == 8 (false)
+
+////////////////////////////////////////////////////////////
+
+Please enter side a: 
+5
+Please enter side b: 
+10
+Please enter side c: 
+8
+It is not a right triangle.
+Program ended with exit code: 0
+
+////////////////////////////////////////////////////////////
+
+Please enter side a: 
+4
+Please enter side b: 
+4
+Please enter side c: 
+6
+It is not a right triangle.
+Program ended with exit code: 0
+
+////////////////////////////////////////////////////////////

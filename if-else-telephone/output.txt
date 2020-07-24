@@ -1,0 +1,31 @@
+// Lisa Lehrman CS14E 7/2/2020 
+
+Please enter a single letter and the program will tell
+you the digit it corresponds to on the telephone keypad:
+w
+The character w is not a capital letter.
+Program ended with exit code: 0
+
+Please enter a single letter and the program will tell
+you the digit it corresponds to on the telephone keypad:
+Q
+The character Q doesn't correspond to any digit on the keypad.
+Program ended with exit code: 0
+
+Please enter a single letter and the program will tell
+you the digit it corresponds to on the telephone keypad:
+~
+The character ~ doesn't correspond to any digit on the keypad.
+Program ended with exit code: 0
+
+Please enter a single letter and the program will tell
+you the digit it corresponds to on the telephone keypad:
+F
+The character F corresponds to the digit 3 on the keypad
+Program ended with exit code: 0
+
+Please enter a single letter and the program will tell
+you the digit it corresponds to on the telephone keypad:
+X
+The character X corresponds to the digit 9 on the keypad
+Program ended with exit code: 0

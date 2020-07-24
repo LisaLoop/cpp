@@ -1,0 +1,68 @@
+// CS14E 
+// Lisa Lehrman
+// Assignment 7.2
+Please enter a number of rows between 3-23:  13
+      *      
+     ***     
+    *****    
+   *******   
+  *********  
+ *********** 
+*************
+ *********** 
+  *********  
+   *******   
+    *****    
+     ***     
+      *      
+Program ended with exit code: 0
+
+Please enter a number of rows between 3-23:  7
+   *   
+  ***  
+ ***** 
+*******
+ ***** 
+  ***  
+   *   
+Program ended with exit code: 0
+
+Please enter a number of rows between 3-23:  90
+Your input was invalid. Please try again. 
+Please enter a number of rows between 3-23:  30
+Your input was invalid. Please try again. 
+Please enter a number of rows between 3-23:  23
+           *           
+          ***          
+         *****         
+        *******        
+       *********       
+      ***********      
+     *************     
+    ***************    
+   *****************   
+  *******************  
+ ********************* 
+***********************
+ ********************* 
+  *******************  
+   *****************   
+    ***************    
+     *************     
+      ***********      
+       *********       
+        *******        
+         *****         
+          ***          
+           *           
+Program ended with exit code: 0
+
+Please enter a number of rows between 3-23:  1
+Your input was invalid. Please try again. 
+Please enter a number of rows between 3-23:  2
+Your input was invalid. Please try again. 
+Please enter a number of rows between 3-23:  3
+ * 
+***
+ * 
+Program ended with exit code: 0

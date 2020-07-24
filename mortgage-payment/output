@@ -1,0 +1,29 @@
+Please enter the loan amount.
+105000.00
+Please enter the annual interest rate. (e.g., 0.08 for 8%)
+0.115
+Please enter number of years.
+30
+The monthly payment is $1039.81
+Program ended with exit code: 0
+
+///////////////////////////////////////////////////////////
+
+Please enter the loan amount.
+1000000.00
+Please enter the annual interest rate. (e.g., 0.08 for 8%)
+.003
+Please enter number of years.
+15
+The monthly payment is $5682.19
+Program ended with exit code: 0
+///////////////////////////////////////////////////////////
+
+Please enter the loan amount.
+120000.00
+Please enter the annual interest rate. (e.g., 0.08 for 8%)
+.10
+Please enter number of years.
+12
+The monthly payment is $1434.09
+Program ended with exit code: 0
