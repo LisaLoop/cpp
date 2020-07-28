@@ -1,0 +1,14 @@
+Please enter up to 50 integers.
+average: 593.786
+sum: 8313
+smallest: 139
+largest: 950
+original input numbers: 
+ 875	 840	 553	 750	 180	 386	 139	 836	 212	 677
+ 177	 946	 792	 950
+reverse input numbers: 
+ 950	 792	 946	 177	 677	 212	 836	 139	 386	 180
+ 750	 553	 840	 875
+sorted array: 
+ 139	 177	 180	 212	 386	 553	 677	 750	 792	 836
+ 840	 875	 946	 950
