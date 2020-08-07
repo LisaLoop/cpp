@@ -1,0 +1,112 @@
+Account                                              Name             Balance               Limit
+     25                                            George                0.00                0.00
+     33                                             Terry              100.00             1000.00
+     50                                             Keith               25.50              250.00
+     75                                               Ali              100.00              100.00
+    100                                            Kermit               50.50              500.00
+    125                                             Julia                0.00              100.00
+    150                                              Mark                0.00             1000.00
+
+
+The account does not exist
+
+The account does not exist
+
+A payment of 100.00 was posted to account 45
+The account balance was: 
+     45                                             Kevin              100.00              100.00
+
+The new account balance is: 
+     45                                             Kevin                0.00              100.00
+
+
+A charge of 50.00 was posted to account 45
+The account balance was: 
+     45                                             Kevin                0.00              100.00
+
+The new account balance is: 
+     45                                             Kevin               50.00              100.00
+
+
+Account                                              Name             Balance               Limit
+     25                                            George                0.00                0.00
+     33                                             Terry              100.00             1000.00
+     45                                             Kevin               50.00              100.00
+     50                                             Keith               25.50              250.00
+     75                                               Ali              100.00              100.00
+    100                                            Kermit               50.50              500.00
+    125                                             Julia                0.00              100.00
+    150                                              Mark                0.00             1000.00
+
+
+A payment of 10.50 was posted to account 100
+The account balance was: 
+    100                                            Kermit               50.50              500.00
+
+The new account balance is: 
+    100                                            Kermit               40.00              500.00
+
+
+A payment of 25.00 was posted to account 50
+The account balance was: 
+     50                                             Keith               25.50              250.00
+
+The new account balance is: 
+     50                                             Keith                0.50              250.00
+
+
+The charge was disallowed.
+Account #        75
+charge amount:   200.00
+balance:         100.00
+credit limit:    100.00
+
+A payment of 250.00 was posted to account 75
+The account balance was: 
+     75                                               Ali              100.00              100.00
+
+The new account balance is: 
+     75                                               Ali             -150.00              100.00
+
+
+A charge of 200.00 was posted to account 75
+The account balance was: 
+     75                                               Ali             -150.00              100.00
+
+The new account balance is: 
+     75                                               Ali               50.00              100.00
+
+
+A charge of 1000.00 was posted to account 150
+The account balance was: 
+    150                                              Mark                0.00             1000.00
+
+The new account balance is: 
+    150                                              Mark             1000.00             1000.00
+
+
+The charge was disallowed.
+Account #        150
+charge amount:   1.00
+balance:         1000.00
+credit limit:    1000.00
+
+A payment of 500.00 was posted to account 150
+The account balance was: 
+    150                                              Mark             1000.00             1000.00
+
+The new account balance is: 
+    150                                              Mark              500.00             1000.00
+
+
+Account                                              Name             Balance               Limit
+     25                                            George                0.00                0.00
+     33                                             Terry              100.00             1000.00
+     45                                             Kevin               50.00              100.00
+     50                                             Keith                0.50              250.00
+     75                                               Ali               50.00              100.00
+    100                                            Kermit               40.00              500.00
+    125                                             Julia                0.00              100.00
+    150                                              Mark              500.00             1000.00
+
+

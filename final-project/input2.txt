@@ -1,0 +1,14 @@
+A	1	Prof.Plum	999	10000
+A	2	Mrs.Scarlet	0.00	1.00
+A	3	Col.Mustard	-999	10000
+A	4	Mrs.Peacock	50.50	1000
+A	5	Mr.Green	-10000	1000
+Q						
+P	1	990
+C	1	999
+C	5	11000
+C	5	1.00
+P	3	998
+C	2	.99
+C	4	50
+		

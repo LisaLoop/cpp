@@ -1,0 +1,70 @@
+Account                                              Name             Balance               Limit
+      1                                         Prof.Plum              999.00            10000.00
+      2                                       Mrs.Scarlet                0.00                1.00
+      3                                       Col.Mustard             -999.00            10000.00
+      4                                       Mrs.Peacock               50.50             1000.00
+      5                                          Mr.Green           -10000.00             1000.00
+
+
+A payment of 990.00 was posted to account 1
+The account balance was: 
+      1                                         Prof.Plum              999.00            10000.00
+
+The new account balance is: 
+      1                                         Prof.Plum                9.00            10000.00
+
+
+A charge of 999.00 was posted to account 1
+The account balance was: 
+      1                                         Prof.Plum                9.00            10000.00
+
+The new account balance is: 
+      1                                         Prof.Plum             1008.00            10000.00
+
+
+A charge of 11000.00 was posted to account 5
+The account balance was: 
+      5                                          Mr.Green           -10000.00             1000.00
+
+The new account balance is: 
+      5                                          Mr.Green             1000.00             1000.00
+
+
+The charge was disallowed.
+Account #        5
+charge amount:   1.00
+balance:         1000.00
+credit limit:    1000.00
+
+A payment of 998.00 was posted to account 3
+The account balance was: 
+      3                                       Col.Mustard             -999.00            10000.00
+
+The new account balance is: 
+      3                                       Col.Mustard            -1997.00            10000.00
+
+
+A charge of 0.99 was posted to account 2
+The account balance was: 
+      2                                       Mrs.Scarlet                0.00                1.00
+
+The new account balance is: 
+      2                                       Mrs.Scarlet                0.99                1.00
+
+
+A charge of 50.00 was posted to account 4
+The account balance was: 
+      4                                       Mrs.Peacock               50.50             1000.00
+
+The new account balance is: 
+      4                                       Mrs.Peacock              100.50             1000.00
+
+
+Account                                              Name             Balance               Limit
+      1                                         Prof.Plum             1008.00            10000.00
+      2                                       Mrs.Scarlet                0.99                1.00
+      3                                       Col.Mustard            -1997.00            10000.00
+      4                                       Mrs.Peacock              100.50             1000.00
+      5                                          Mr.Green             1000.00             1000.00
+
+
